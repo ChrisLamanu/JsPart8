@@ -1,0 +1,8 @@
+#btnScroll {
+    display: none;
+    position: fixed;
+    z-index: 99;
+    cursor: pointer;
+    bottom: 2rem;
+    right: 2rem;
+}
